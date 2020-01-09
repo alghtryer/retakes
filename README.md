@@ -52,6 +52,7 @@ retakes_random_weapons "3"		// In which round start giving random weapon(granade
 #### Important Notes :
 ***You must enable nextmap.amxx.*** \
 ***Don't work with ReGameDLL!!!*** 
+***Edit mapcycle.txt with maps for retakes*** 
 
 #### Images: will be added...
 
