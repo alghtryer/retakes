@@ -130,7 +130,7 @@ public OnPlayerSpawn(id)
 						}
 						case 3: {
 							GiveWeapons(id, "weapon_usp");
-							GiveWeapons(id, "weapon_galil");
+							GiveWeapons(id, "weapon_famas");
 						}
 						case 4,5,6,7: {
 							GiveWeapons(id, "weapon_usp");
