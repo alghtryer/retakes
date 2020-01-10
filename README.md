@@ -59,5 +59,5 @@ retakes_random_weapons "3"		// In which round start giving random weapon(granade
 
 #### Credits:
 - Map Spawns 			// jopmako 
-- Auto Plant and Swap Teams 	// xPaw 
+- Auto Plant Bomb		// xPaw/Arkashine
 - c4 Countdown Timer		// SAMURAI16 
