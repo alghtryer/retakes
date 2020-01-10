@@ -41,7 +41,7 @@
 *	Credits:
 *	- - - - -
 *	- Map Spawns 			jopmako
-*	- Auto Plant 		 	xPaw/Arkashine
+*	- Auto Plant Bomb		xPaw/Arkashine
 *	- c4 Countdown Timer		SAMURAI16
 *
 *	License:
