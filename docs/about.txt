@@ -82,7 +82,7 @@ Edit mapcycle.txt with maps for retakes.
 6. Credits:
 = = = = =
 - Map Spawns 			// jopmako
-- Auto Plant and Swap Teams 	// xPaw
+- Auto Plant Bomb		// xPaw/Arkashine
 - c4 Countdown Timer		// SAMURAI16
 
 7. Contact:
