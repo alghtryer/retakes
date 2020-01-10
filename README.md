@@ -7,7 +7,7 @@
 The plugin sets up a retake situation in a random site in the map. TT plant bomb and CT have 40 seconds to defuse. \
 TT spawned on bombsite( A or B), CT on random spwan depending of where c4 plant(A or B). 
 
-#### 1.1 Features: 
+#### Features: 
 - Warm Up for 30 seconds on map start. 
 - Auto plant Bomb. 
 - If CT win, team will be swap.
