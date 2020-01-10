@@ -188,6 +188,7 @@ public RandomPlayersCT(){
 			strip_user_weapons(id);
 			give_item(id,"weapon_knife");
 			GiveWeapons(id, "weapon_awp");
+			GiveWeapons(id, "weapon_deagle");
 		}
 		
 		players[rand] = players[--total];
@@ -229,6 +230,7 @@ public RandomPlayersT(){
 			strip_user_weapons(id);
 			give_item(id,"weapon_knife");
 			GiveWeapons(id, "weapon_awp");
+			GiveWeapons(id, "weapon_deagle");
 		}
 		
 		players[rand] = players[--total];
