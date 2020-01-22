@@ -6,7 +6,7 @@
 The plugin sets up a retake situation in a random site in the map. TT plant bomb and CT have 40 seconds to defuse. \
 TT spawned on bombsite( A or B), CT on random spwan depending of where c4 plant(A or B). 
 
-#### Features: 
+### Features: 
 - Warm Up for 30 seconds on map start. 
 - Auto plant Bomb. 
 - If CT win, team will be swap.
@@ -15,7 +15,7 @@ TT spawned on bombsite( A or B), CT on random spwan depending of where c4 plant(
 - c4 Hud timer.
 - Remove buy zones.
 
-#### Weapon:
+### Weapon:
 Give a round and random weapon. \
 Free Armor for all player and defuse for ct team. 
 	
@@ -37,23 +37,24 @@ one player per team get awp and deagle.
 Every map must have spawn for Site A and B. For now i crete 6 CT and 6 T spawn for this map: \
 	- de_dust2, de_inferno, de_mirage, de_train, de_tuscan.
 
-#### API:
+### API:
 isRetakes()	// Check if retakes start. \
 Rounds()	// Check round number.	
 		
-#### Cvars:
+### Cvars:
 retakes_rounds "15"			// How much playing round for one map \
 retakes_rowwin "3"			// How much T Team can win round in row \
 retake_prefix "!g[RETAKES]"		// Prefix in chat message \
 retakes_random_weapons "3"		// In which round start giving random weapon(granades and awp) 
 
 
-#### Important Notes :
+### Important Notes :
 ***You must enable nextmap.amxx.*** \
 ***Don't work with ReGameDLL!!!*** \
 ***Edit mapcycle.txt with maps for retakes*** 
 
-#### Images: will be added...
+### Images: 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/J8ev5N8" data-context="false"><a href="//imgur.com/a/J8ev5N8">RETAKES v1.0</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 #### Credits:
