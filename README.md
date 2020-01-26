@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/alghtryer@gmail.com-black?logo=gmail&style=for-the-badge)
 
 ```
+Now you can use with ReGameDLL but must turn off auto bomb plant.
 v1.1 [22. Jan 2020]
 	- Added	eight new cvars.
 	- Added buy zone and disable buy.
