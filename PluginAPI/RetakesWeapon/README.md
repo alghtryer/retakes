@@ -16,5 +16,5 @@ Free Armor for all player and defuse for ct team.
 From third round one player get smoke, one flash(2x), one he and \
 one player per team get awp and deagle.
 
-***Cvars:***
+***Cvars:***  \
 retakes_random_weapons "3"		// In which round start giving random weapon(granades and awp) 
