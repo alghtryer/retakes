@@ -1,4 +1,4 @@
-#### Weapon:
+## Retakes Weapon:
 Give a round and random weapon. \
 Free Armor for all player and defuse for ct team. 
 	
