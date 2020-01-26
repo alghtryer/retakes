@@ -9,7 +9,7 @@ v1.1 [22. Jan 2020]
 	- Small bug fixed.
 	- Added perment hud message for bombsite info.
 ```
-The plugin sets up a retake situation in a random site in the map. TT plant bomb and CT have 40 seconds to defuse. \
+The plugin sets up a retake situation in a random site in the map. TT plant bomb and CT have 40 seconds to defuse. <br>
 TT spawned on bombsite( A or B), CT on random spwan depending of where c4 plant(A or B). 
 
 #### Features: 
@@ -24,31 +24,31 @@ TT spawned on bombsite( A or B), CT on random spwan depending of where c4 plant(
 - If bomb don't plant, round will be restarted. Rounds and player money/kill/deats be returned on same.
 
 
-***Spawn*** \
-Every map must have spawn for Site A and B. For now i crete 6 CT and 6 T spawn for this map: \
+***Spawn*** <br>
+Every map must have spawn for Site A and B. For now i crete 6 CT and 6 T spawn for this map: <br>
 	- de_dust2, de_inferno, de_mirage, de_train, de_tuscan.
 
 #### API:
-isRetakes()	// Check if retakes start. \
+isRetakes()	// Check if retakes start. <br>
 Rounds()	// Check round number.	
 		
 #### Cvars:
-retakes_rounds "15"			// How much playing round for one map \
-retakes_rowwin "3"			// How much T Team can win round in row \
-retake_prefix "!g[RETAKES]"		// Prefix in chat message \
-retakes_autoplant "1"			// Auto Plant Bomb is on/off
-retakes_buyzone 1			// Unlock/remove buy zone
-retakes_warmup_time "30"		// Warm Up time min=1
-retakes_infohud "1"			// Info hud on/off
-retakes_buytime "5"			// Buy Time
-retakes_swapct "1"			// On/off Swap CT
-retakes_swapt "1"			// On/off Swap T
-retakes_hudc4timer "1"			// On/off c4 hud timer
+retakes_rounds "15"			// How much playing round for one map <br>
+retakes_rowwin "3"			// How much T Team can win round in row <br>
+retake_prefix "!g[RETAKES]"		// Prefix in chat message <br>
+retakes_autoplant "1"			// Auto Plant Bomb is on/off <br>
+retakes_buyzone 1			// Unlock/remove buy zone <br>
+retakes_warmup_time "30"		// Warm Up time min=1 <br>
+retakes_infohud "1"			// Info hud on/off <br>
+retakes_buytime "5"			// Buy Time <br>
+retakes_swapct "1"			// On/off Swap CT <br>
+retakes_swapt "1"			// On/off Swap T <br>
+retakes_hudc4timer "1"			// On/off c4 hud timer <br>
 
 
 #### Important Notes :
-***You must enable nextmap.amxx.*** \
-***Auto Plant Bomb don't work with ReGameDLL!!!*** \
+***You must enable nextmap.amxx.*** <br>
+***Auto Plant Bomb don't work with ReGameDLL!!!*** <br>
 ***Edit mapcycle.txt with maps for retakes*** 
 
 #### Images: 
